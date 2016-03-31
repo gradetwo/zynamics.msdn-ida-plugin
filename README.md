@@ -1,0 +1,1 @@
+zynamics.msdn-ida-plugin
